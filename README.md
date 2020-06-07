@@ -93,7 +93,7 @@ On vous demande ici de réaliser une autre application à base de PHP/MySQL ayan
 
 Travail à faire :
 
-    - Porter le site JS en Php
+    - Porter le [site JS](./TD3/script.js) en Php
 
     - Gérer le parc informatique (uniquement les PC) du lycée
 
