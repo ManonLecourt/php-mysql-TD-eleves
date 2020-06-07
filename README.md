@@ -83,13 +83,13 @@ l'ordre d'insertion avec les variables PHP :
 ```
 
 
-## TD 3 : portage de la version Javascript 
+## TD 3 : portage de la version Réseau IP Javascript 
 
 En apprenant les bases du langage Javascript, vous avez réalisé une application permettant de décrire les éléments d'un réseau IP à partir de l'adresse d'un hôte.
 
 On vous demande ici de réaliser une autre application à base de PHP/MySQL ayant pour fonction :
 
-Gestion d'un parc informatique (on se limite aux terminaux PC).
+**Gestion d'un parc informatique (on se limite aux terminaux PC).**
 
 Travail à faire :
 
@@ -97,9 +97,9 @@ Travail à faire :
 
     - Gérer le parc informatique (uniquement les PC) du lycée
 
-    * Pour chaque PC : Num, Num salle, Mac, IP/masque (et par calcul : réseau, diffusion, ...)
+    * Pour chaque PC : Num, Num salle, Mac, IP/masque (et par calcul : adresse réseau, diffusion, ...)
 
-    - consultation (par critères divers) : pour chaque PC afficher les caractéristiques du réseau correspondant (voir TD Javascript)
+    - consultation (par critères divers) : pour chaque PC afficher les caractéristiques du réseau correspondant
 
     - ajout d'un PC
 
@@ -112,13 +112,4 @@ Travail à faire :
 Pour chaque PC : adresse MAC, Adresse IP/Masque, Salle, Identifiant ...
 
 ### Attention :
-
 Toutes vos productions doivent être accessibles au professeur sur Github.
-
-Vos productions se composent de deux parties :
-
-1- Le portage JS en PHP comme une première étape (note intermédiaire)
-
-2- L'application proprement dite
-
-Pour ce faire, séparez les deux sur Github (préférablement à l'aide de deux branches : portage_js et app_php_mysql)
