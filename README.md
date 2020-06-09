@@ -94,6 +94,13 @@ On vous demande ici de réaliser une autre application à base de PHP/MySQL ayan
 Travail à faire :
 - TD3a : Récrire (on dit porter) le site Javascript calculant les adresses IP, en PHP  
    - [partez du dépot: **corrige-ipcalc-js**](https://github.com/sinbrive/corrige-ipcalc-js)
+   - Aides :
+     - la fonction split en PHP : [explode()](https://www.w3schools.com/php/func_string_explode.asp)
+     - la fonction random en PHP : [rand()](https://www.w3schools.com/php/func_math_rand.asp)
+     - Conversion string en entier : (int)$nom_string;
+     - inclure un fichier php : include "nom_fichier.php";
+     - portée des variables : [ce lien parmi d'autres](https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/portee-variable-fonction)
+     - Insérer une variable php dans html :  ``` <?php echo $nom_variable; ?> ``` 
 - TD3b : Ecrire un site qui permet de gérer le parc informatique (uniquement les PC) du lycée Réaumur
    - Pour chaque PC : Référence, Numéro de salle, Adresse MAC, IP/masque, l'adresse réseau, l'adresse de diffusion
    - consultation (par critères divers) : pour chaque PC afficher les caractéristiques du réseau correspondant
