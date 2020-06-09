@@ -92,7 +92,7 @@ On vous demande ici de réaliser une autre application à base de PHP/MySQL ayan
 **Gestion d'un parc informatique (on se limite aux terminaux PC).**
 
 Travail à faire :
-- TD3a : Récrire (on dit porter) le site Javascript calculant les adresses IP entre autres PHP  
+- TD3a : Récrire (on dit porter) le site Javascript calculant les adresses IP, en PHP  
    - [partez du dépot: **corrige-ipcalc-js**](https://github.com/sinbrive/corrige-ipcalc-js)
 - TD3b : Ecrire un site qui permet de gérer le parc informatique (uniquement les PC) du lycée Réaumur
    - Pour chaque PC : Référence, Numéro de salle, Adresse MAC, IP/masque, l'adresse réseau, l'adresse de diffusion
@@ -101,6 +101,7 @@ Travail à faire :
    - suppression d'un PC
    - mise à jour d'un PC
    - vérifier si des PC sélectionnés peuvent communiquer
+   [une base pour ceux qui n'ont pas réussi TD2](td2_base.php)
 
 ### Attention :
 Toutes vos productions doivent être accessibles au professeur sur Github.
