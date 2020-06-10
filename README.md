@@ -108,7 +108,7 @@ Travail à faire :
    - suppression d'un PC
    - mise à jour d'un PC
    - vérifier si des PC sélectionnés peuvent communiquer
-   - [Ressource : une base pour ceux qui n'ont pas réussi TD2](/TD3/td2_base.php)
+   - [Ressource : une base pour ceux qui n'ont pas réussi TD2](/TD3/TD3b/td2_base.php)
 
 ### Attention :
 Toutes vos productions doivent être accessibles au professeur sur Github.
