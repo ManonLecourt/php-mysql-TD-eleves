@@ -1,0 +1,159 @@
+body {
+    font-family: verdana, arial, sans-serif;
+    font-size: .70em;
+    background: #837560;
+}
+
+header {
+    margin: 0 auto;
+    padding: 0;
+    width: 980px;
+    height: 20px;
+    background: #FFFFFF url(img/fondmenu.png);
+}
+
+.menu {
+    width: 980px;
+    height: 15px;
+    background: #FFFFFF url(img/fondmenu.png);
+}
+
+.logo {
+    width: 100%;
+    height: 200px;
+    padding-left: 0;
+    text-align: left;
+    color: #70695A;
+    background-image: url("img/subnet3.png"); /*from https://www.thesslstore.com */
+    background-size: 100% 150%;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.logo h1 {
+    padding-left: 5px;
+    margin:0;
+}
+
+.content {
+    background: transparent;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    height: 600px;
+    overflow: hidden;
+}
+
+h1 {
+    font-family: arial, sans-serif;
+    letter-spacing: .1em;
+    color: #CE7014;
+}
+
+.content h1 {
+    padding: 6px 0px 4px 0px;
+    margin: 0px 0px 12px 0px;
+    border-bottom: 1px solid;
+    border-bottom-color: currentcolor;
+    font-size: 150%;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+p {
+    line-height: 1.7em;
+}
+
+main {
+    background: #FFFFFF;
+    /*url(./back.png) repeat-y; */
+    width: 980px;
+    margin: auto;
+}
+
+footer {
+    width: 980px;
+    text-align: center;
+    background: #FFFFFF url(img/fondmenu.png);
+    color: #DBD7D1;
+    border-color: #D7D7D7;
+    padding: 5px 0px 5px 0px;
+}
+
+.formfield {
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    font-family: verdana, arial, sans-serif;
+}
+
+.net
+ {
+    margin: 15px 0px;
+}
+
+.formfield p {
+    margin-bottom: 10px;
+}
+
+.leftright {
+    display:flex;
+}
+
+
+input {
+    color: #70695A;
+    border:1px solid;
+    font-size: 100%;
+    margin-top: 10px;
+    /* margin-left: 70px; */
+}
+
+#btn {
+    margin-left: 100px;
+}
+#btn span {
+    display:inline;
+}
+
+h4 {
+    color: #70695A;
+}
+
+span  {
+    display:inline-block; 
+    width: 180px;
+    /* margin-right: auto;  */
+}
+
+
+.results p {
+    font-weight: bold;
+    color :rgb(102, 102, 102);
+}
+
+.enter p {
+    font-weight: bold;
+    color :rgb(102, 102, 102);
+}
+
+.image {
+    background-image: url('img/reaumur-buron.png');
+    background-size: 100% 100%;
+    margin-right: 10px;
+    margin-left: 0px;
+    width: 20%;
+    height: 100%;
+    float: left;
+    text-indent: -999999999999px;
+    background-repeat: no-repeat;
+    /*opacity: 0.3;*/
+}
+
+.enter {
+    width:35%;
+}
+
+.results {
+    width:40%;
+} 
