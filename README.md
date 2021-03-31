@@ -61,6 +61,7 @@ Résultat attendu :
 L'avantage d'avoir un type DATE dans notre base de données, c'est que nous pouvons comparer des dates dans la requête SQL.
 
 Ici nous ne souhaitons afficher que les membres de la famille qui sont nés avant le 1er janvier 1960, soit : WHERE date<'1960-01-01'
+<pre>SELECT * FROM `famille_tb1` WHERE date<'1960-01-01' </pre>
 
 
 ## TD2 - Site dynamique de gestion de famille
