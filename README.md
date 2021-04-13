@@ -2,7 +2,7 @@
 
 ## TD1 - Création de BD et exploitation PHP
 Soit la la base de données avec une table décrivant une famille :
-![image](https://github.com/sinbrive/php-mysl-TD-prof/blob/master/tables_a_realiser.png)
+![image](./tables_a_realiser.png)
 
 La formulation de l'ordre de création de la table (image ci-dessus) :
 ```lanagage sql:
@@ -73,7 +73,7 @@ Reprenez la base de données du TD1 et écrire une application permettant :
 
 - (optionnel) de consulter par un critère choisi dans une liste (formulaire)
 
-![image2](https://github.com/sinbrive/php-mysl-TD-prof/blob/master/exemple.png)
+![image2](./exemple.png)
 
 Le TD2 est découpé en 4 étape : [étape 1](https://github.com/sinbrive/php-mysql-TD-eleves/tree/master/TD2/etape1), [étape 2](https://github.com/sinbrive/php-mysql-TD-eleves/tree/master/TD2/etape2), [étape 3](https://github.com/sinbrive/php-mysql-TD-eleves/tree/master/TD2/etape3), [étape 4](https://github.com/sinbrive/php-mysql-TD-eleves/tree/master/TD2/etape4). A chaque fois, un fichier index.php incomplet est donné. Votre travail est de le compléter et le tester. Le résultat final attendu correspond à l'étape 4.
 
