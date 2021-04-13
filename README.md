@@ -6,7 +6,7 @@ Soit la la base de données avec une table décrivant une famille :
 
 La formulation de l'ordre de création de la table (image ci-dessus) :
 ```lanagage sql:
-create table famille_tb2 (id int(11) NOT NULL auto_increment, nom varchar(255) NOT NULL, prenom varchar(255) NOT NULL, statut varchar(255) NOT NULL, date date DEFAULT '1970-01-01' NOT NULL, PRIMARY KEY (id));
+create table famille_tbl (id int(11) NOT NULL auto_increment, nom varchar(255) NOT NULL, prenom varchar(255) NOT NULL, statut varchar(255) NOT NULL, date date DEFAULT '1970-01-01' NOT NULL, PRIMARY KEY (id));
 ```
 
 Requêtes pour initialiser votre table "famille_tbl":
