@@ -112,4 +112,4 @@ Travail à faire :
    - [Ressource : une base pour ceux qui n'ont pas réussi TD2](/TD3/TD3b/td2_base.php)
 
 ### Attention :
-Toutes vos productions doivent être accessibles au professeur sur Github.
+Toutes vos productions doivent être rendues sur eLyco.
